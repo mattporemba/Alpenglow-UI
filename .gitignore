@@ -1,4 +1,6 @@
-#############
-## PYCHARM ##
-#############
+## PyCharm and VSCode ##
 .idea/*
+.vscode/*
+
+## Python stuff
+__pycache__/*
